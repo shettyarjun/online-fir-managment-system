@@ -32,7 +32,7 @@ Welcome to the Online FIR Management System! This system is designed to streamli
 
 4. **Start the Application:**
 - Move the cloned repository to XAMPP's `htdocs` directory.
-- Open your web browser and navigate to `http://localhost/sampl5`.
+- Open your web browser and navigate to `http://localhost/sampl5/sampl5`.
 
 5. **Login Credentials:**
 - Use the following credentials for logging in:
